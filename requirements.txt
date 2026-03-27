@@ -1,0 +1,9 @@
+torch>=2.0
+transformers>=4.40
+accelerate>=0.25
+soundfile>=0.12
+scipy>=1.10
+gradio>=4.0
+
+# NVIDIA GPU only (skip on Mac):
+# bitsandbytes>=0.41
